@@ -33,3 +33,4 @@ Highlights secure credential handling. It pulls a sensitive value (`${{ secrets.
 3. Click the **Run workflow** dropdown.
 4. (Optional) Override the default input numbers (`1000` and `2000`).
 5. Click **Run workflow** and inspect the output logs of the `variable_job` and `secrets_job` to see how the data is handled!
+ 
